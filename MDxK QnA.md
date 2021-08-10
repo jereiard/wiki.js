@@ -1,5 +1,6 @@
 1. Genome Browser에서 repeat count * 3.3kb != 그림
    ![image-20210810094600049](image-20210810094600049.png)
+   
    위 7 (23.1), 아래11 (36.3)
    1. Map to reference SV 로 들어갔을 때 해석방법?
 2. D4Z4 hybrid / 4 on 10 / 10 on 4 detection 여부
